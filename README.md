@@ -20,7 +20,7 @@ The execution of the pipex program should do the same as the next shell command:
 
 **Examples**
 ```bash
- ./pipex infile ``grep hello'' ``wc -w'' outfile
+ ./pipex infile "grep hello" "wc -w" outfile
  ```
  should be the same as
  ```bash
