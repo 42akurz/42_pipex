@@ -1,6 +1,6 @@
 # pipex - 42 School Project
 
-[![akurz's 42Project Score](https://badge42.herokuapp.com/api/project/akurz/pipex)](https://github.com/JaeSeoKim/badge42)
+[![akurz's 42 pipex Score](https://badge42.vercel.app/api/v2/cl1z3zeq4001109mkr4my4esw/project/2307705)](https://github.com/JaeSeoKim/badge42)
 
 ## About
 
